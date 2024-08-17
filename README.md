@@ -2,7 +2,7 @@
 ### Project Coordinator 
 > Dr. Krishnaraj P M
 
-### Problem Statement 
+### Project Statement 
 Is there a correlation between Rural Distress and 'Demand for work' in MGNREGA?
 
 ### Underlying Meaning 
