@@ -14,7 +14,7 @@ st.set_page_config(layout="wide", page_title="Agricultural Dashboard")
 # Load the datasets
 @st.cache_data
 def load_data():
-    crop_data = pd.read_csv('crop_data.csv')
+    crop_data = pd.read_csv('Crop_data.csv')
     area_affected = pd.read_csv('Area_affected.csv')
     mgnrega = pd.read_csv('mgnrega.csv')
     return crop_data, area_affected, mgnrega
